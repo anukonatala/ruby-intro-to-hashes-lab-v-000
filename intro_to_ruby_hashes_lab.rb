@@ -4,7 +4,8 @@ def new_hash
 end
 
 def actor
-  new_hash = { "name" => ""}
+  actor[:name]).to eq("Dwayne The Rock Johnson")
+  actor = {}
 end
 
 def monopoly
